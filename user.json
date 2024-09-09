@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Joanie",
+        "last_name": "Fley",
+        "email": "jfley0@myspace.com",
+        "gender": "Female",
+        "salary":24000
+    },
+    {
+        "id": 2,
+        "first_name": "Ailis",
+        "last_name": "Watman",
+        "email": "awatman1@fda.gov",
+        "gender": "Female",
+        "salary":17000
+    },
+    {
+        "id": 3,
+        "first_name": "Lori",
+        "last_name": "Wines",
+        "email": "lwines2@census.gov",
+        "gender": "Female",
+        "salary":21000
+    },
+    {
+        "id": 4,
+        "first_name": "Sandy",
+        "last_name": "Woolaghan",
+        "email": "swoolaghan3@nyu.edu",
+        "gender": "Female",
+        "salary":20000
+    },
+    {
+        "id": 5,
+        "first_name": "Jobyna",
+        "last_name": "Imlach",
+        "email": "jimlach4@nsw.gov.au",
+        "gender": "Genderqueer",
+        "salary":18000
+    },
+    {
+        "id": 6,
+        "first_name": "Christan",
+        "last_name": "Gatherer",
+        "email": "cgatherer5@census.gov",
+        "gender": "Female",
+        "salary":15000
+    },
+    {
+        "id": 7,
+        "first_name": "Byrann",
+        "last_name": "Belsher",
+        "email": "bbelsher6@altervista.org",
+        "gender": "Male",
+        "salary":13000
+    },
+    {
+        "id": 8,
+        "first_name": "Delcina",
+        "last_name": "Love",
+        "email": "dlove7@rambler.ru",
+        "gender": "Female",
+        "salary":12000
+    },
+    {
+        "id": 9,
+        "first_name": "Ed",
+        "last_name": "de Juares",
+        "email": "edejuares8@eventbrite.com",
+        "gender": "Non-binary",
+        "salary":10000
+    },
+    {
+        "id": 10,
+        "first_name": "Frederico",
+        "last_name": "Pammenter",
+        "email": "fpammenter9@hibu.com",
+        "gender": "Male",
+        "salary":14000
+    }
+]
